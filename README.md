@@ -2,7 +2,7 @@
 
 **Address:** Bankura, West Bengal
 
-# Samir Means - breeze", "wind" or "air". In Arabic Samir means  "loyal".
+Samir Means - breeze", "wind" or "air". In Arabic Samir means  "loyal".
 
 ## About Me
 
