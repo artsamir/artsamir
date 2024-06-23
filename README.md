@@ -14,7 +14,7 @@ Hello! I'm Samir Saren, a passionate Software Development Engineer in Test (SDET
   - Bankura Government Polytechnic
   - Graduated: 2020
 - **Advanced Diploma in Foundry Technology**
-  - National Institute of Advanced Manufacturing Technology
+  - National Institute of Advanced Manufacturing Technology *(formerly Nifft)*
   - Graduated: 2023
 
 ## Skills
