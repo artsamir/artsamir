@@ -39,9 +39,9 @@ Here are some of the projects I've worked on:
    - Description: Developed an automated testing framework for the SM Travel web application using Java Selenium. Automated key functionalities like search, book ticket, passenger details, and print ticket.
    - Tech Stack: Java Selenium, HTML, CSS
 
-2. **Mobile Application Testing Royel Brothers**
+2. **Mobile Application Testing Smitch Care**
    - Description: 
-   - Tech Stack: Mobile Testing, API Testing
+   - Tech Stack: Mobile Testing (Java, JavaScript, JSON)
 
 
 
