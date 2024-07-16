@@ -47,7 +47,7 @@ Here are some of the projects I've worked on:
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/artsamir/)) or [Email](mailto:samirsaren@hotmail.com).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/artsamir/) or [Email](mailto:samirsaren@hotmail.com).
 
 Thank you for visiting my GitHub profile!
 
