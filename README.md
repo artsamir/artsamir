@@ -25,6 +25,8 @@ Hello! I'm Samir Saren, a passionate Software Development Engineer in Test (SDET
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=artsamir&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=artsamir&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=artsamir&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=artsamir&theme=dark&hide_border=true" width="400" />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=artsamir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
