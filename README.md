@@ -4,9 +4,9 @@
 
 Samir Means - breeze", "wind" or "air". In Arabic Samir means  "loyal".
   
-# 💫 About Me:
+# 💫 About Me: 
 Hello! I'm Samir Saren, a passionate Software Development Engineer in Test (SDET). I completed my diploma from Bankura Government Polytechnic in 2020. Then I completed Advanced Diploma with Foundry Technology in 2023 from National Institute of Advanced Manufacturing Technology. My tech stack includes HTML, CSS, Java Selenium, API Testing, Mobile Testing, and Performance Testing. My hobby is cooking. That’s all about me. Thank you.
-
+[![](https://visitcount.itsvg.in/api?id=artsamir&icon=0&color=12)](https://visitcount.itsvg.in)
 ## Education
 
 - **Diploma in Metallurgical Engineering**
@@ -37,11 +37,9 @@ Hello! I'm Samir Saren, a passionate Software Development Engineer in Test (SDET
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=artsamir&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=artsamir&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
