@@ -1,7 +1,7 @@
-# Samir Saren
-
+# Hi, I am Samir Saren
+<!--
 **Address:** Bankura, West Bengal
-
+-->
 Samir Means - breeze", "wind" or "air". In Arabic Samir means  "loyal".
   
 # 💫 About Me: 
