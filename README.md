@@ -23,8 +23,10 @@ Hello! I'm Samir Saren, a passionate Software Development Engineer in Test (SDET
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=artsamir&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=artsamir&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="380" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=artsamir&theme=dark&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artsamir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="380">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=artsamir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
