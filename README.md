@@ -3,9 +3,8 @@
 **Address:** Bankura, West Bengal
 
 Samir Means - breeze", "wind" or "air". In Arabic Samir means  "loyal".
-
-## About Me
-
+  
+# 💫 About Me:
 Hello! I'm Samir Saren, a passionate Software Development Engineer in Test (SDET). I completed my diploma from Bankura Government Polytechnic in 2020. Then I completed Advanced Diploma with Foundry Technology in 2023 from National Institute of Advanced Manufacturing Technology. My tech stack includes HTML, CSS, Java Selenium, API Testing, Mobile Testing, and Performance Testing. My hobby is cooking. That’s all about me. Thank you.
 
 ## Education
@@ -17,35 +16,6 @@ Hello! I'm Samir Saren, a passionate Software Development Engineer in Test (SDET
   - National Institute of Advanced Manufacturing Technology *(formerly NIFFT)*
   - Graduated: 2023
 
-## Skills
-
-- **Languages & Technologies:**
-  - HTML
-  - CSS
-  - Java Selenium
-  - Python
-  - Javascript
-
-- **Testing Frameworks & Tools:**
-  - API Testing
-  - Mobile Testing
-  - Performance Testing
-
-## Projects
-
-Here are some of the projects I've worked on:
-
-1. **Automated Testing for SM Travel Web Application**
-   - Description: Developed an automated testing framework for the SM Travel web application using Java Selenium. Automated key functionalities like search, book ticket, passenger details, and print ticket.
-   - Tech Stack: Java Selenium, HTML, CSS
-
-2. **Mobile Application Testing Smitch Care**
-   - Description: 
-   - Tech Stack: Mobile Testing (Java, JavaScript, JSON)
-  
-# 💫 About Me:
-Hello! I'm Samir Saren, a passionate Software Development Engineer in Test (SDET). I completed my diploma from Bankura Government Polytechnic in 2020. Then I completed Advanced Diploma with Foundry Technology in 2023 from National Institute of Advanced Manufacturing Technology. My tech stack includes HTML, CSS, Java Selenium, API Testing, Mobile Testing, and Performance Testing. My hobby is cooking. That’s all about me. Thank you.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artsamir) 
@@ -53,8 +23,8 @@ Hello! I'm Samir Saren, a passionate Software Development Engineer in Test (SDET
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=artsamir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=artsamir&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=artsamir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=artsamir&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=artsamir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
