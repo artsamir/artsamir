@@ -17,6 +17,9 @@ Hello! I'm Samir Saren, a passionate Software Development Engineer in Test (SDET
 - **Advanced Diploma in Foundry Technology**
   - National Institute of Advanced Manufacturing Technology *(formerly NIFFT)*
   - Graduated: 2023
+- **Software Development Engineer in Test**
+  - Masai School
+  - July 2023
 
 
 ## 🌐 Socials:
