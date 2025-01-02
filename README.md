@@ -19,7 +19,7 @@ Hello! I'm Samir Saren, a passionate Software Development Engineer in Test (SDET
   - Graduated: 2023
 - **Software Development Engineer in Test**
   - Masai School
-  - July 2023
+  - July 2024
 
 
 ## 🌐 Socials:
