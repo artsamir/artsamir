@@ -5,7 +5,7 @@
 Samir Means - breeze", "wind" or "air". In Arabic Samir means  "loyal".
   
 # 💫 About Me: 
-Hello! I'm Samir Saren, a passionate Software Development Engineer in Test (SDET). I completed my diploma from Bankura Government Polytechnic in 2020. Then I completed Advanced Diploma with Foundry Technology in 2023 from National Institute of Advanced Manufacturing Technology. My tech stack includes HTML, CSS, Java Selenium, API Testing, Mobile Testing, and Performance Testing. My hobby is travelling. That’s all about me. Thank you.
+Hello! I'm Samir Saren, an accomplished Software Development Engineer in Test (SDET) with a passion for ensuring high-quality software through automation and testing. I hold a diploma from Bankura Government Polytechnic (2020) and an Advanced Diploma in Foundry Technology from the National Institute of Advanced Manufacturing Technology (2023). My tech stack includes Java, Python, Selenium, API Testing, Mobile Testing, Performance Testing with JMeter, and web technologies like HTML5 and CSS3. I'm constantly exploring emerging technologies such as Generative AI. Outside of work, I enjoy traveling. Thank you for visiting my profile!
 
 [![](https://visitcount.itsvg.in/api?id=artsamir&icon=0&color=12)](https://visitcount.itsvg.in)
 
@@ -20,6 +20,10 @@ Hello! I'm Samir Saren, a passionate Software Development Engineer in Test (SDET
 - **Software Development Engineer in Test**
   - Masai School
   - July 2024
+
+## Intern - Quality Control Officer  
+**Jstechno Solution Pvt. Ltd.**, Ahmedabad, Gujarat  
+**September 2024 - December 2024**
 
 
 ## 🌐 Socials:
